@@ -3,6 +3,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGMxbmM1dTl0ZG9xaWV0ZW0wczViMjVzYzc0bW84dzF1aTFvM2h5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" width="500" />
+</p>
+
+
 ## 🇧🇷 <a name="pt-br"></a>Sobre mim
 
 🎯 Desenvolvedor com foco em **Front-End**, apaixonado por criar interfaces modernas e acessíveis.
