@@ -1,13 +1,30 @@
 
+👋 Olá, eu sou o Iago Ávila Batista!
+
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Front-End com experiência também em Back-End e integração de sistemas.
+🚀 Apaixonado por tecnologia, desenvolvimento web e criar soluções que impactam pessoas e negócios.
+
+
 
 ## <a name="pt-br"></a>Sobre mim
+✨ Sobre mim
+Sou formado em Análise e Desenvolvimento de Sistemas e, desde então, venho trilhando uma jornada prática no desenvolvimento de software.
 
-🎯 Desenvolvedor com foco em **Front-End**, apaixonado por criar interfaces modernas e acessíveis.
+Comecei minha carreira como estagiário em desenvolvimento Front-End, onde pude ganhar experiência no desenvolvimento de interfaces web com HTML, CSS, JavaScript e React.
 
-🧠 Atualmente aprendendo **Back-End com C# e .NET**, buscando evoluir para **Full Stack**.
+Desde então, ampliei meu conhecimento e habilidades em:
 
-📚 Estudo com projetos práticos e desafios reais, sempre buscando crescer profissionalmente.
+Desenvolvimento de APIs e aplicações web
 
+Resolução de bugs e melhoria contínua de sistemas
+
+Integração de Front-End com Back-End (C#, .NET, Entity Framework, PostgreSQL, Azure Service Bus)
+
+Criação de landing pages personalizadas para clientes como pet shops e psicólogos, com foco em design responsivo e usabilidade.
+
+Projetos de e-commerce personalizados, com funcionalidades como rastreamento de pedidos e autonomia para gestão de produtos.
 ---
 
 ## ⚙️ Tecnologias
