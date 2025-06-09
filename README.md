@@ -3,13 +3,17 @@
 
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
+
+
 💻 Desenvolvedor Front-End com experiência também em Back-End e integração de sistemas.
+
+
 🚀 Apaixonado por tecnologia, desenvolvimento web e criar soluções que impactam pessoas e negócios.
 
 
 
-## <a name="pt-br"></a>Sobre mim
-✨ Sobre mim
+## <a name="pt-br"></a>✨Sobre mim
+
 Sou formado em Análise e Desenvolvimento de Sistemas e, desde então, venho trilhando uma jornada prática no desenvolvimento de software.
 
 Comecei minha carreira como estagiário em desenvolvimento Front-End, onde pude ganhar experiência no desenvolvimento de interfaces web com HTML, CSS, JavaScript e React.
