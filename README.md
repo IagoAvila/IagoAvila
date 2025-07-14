@@ -28,9 +28,6 @@ Integração de Front-End com Back-End (C#, .NET, Entity Framework, PostgreSQL, 
 
 Criação de landing pages personalizadas para clientes como pet shops e psicólogos, com foco em design responsivo e usabilidade.
 
-Projetos de e-commerce personalizados, com funcionalidades como rastreamento de pedidos e autonomia para gestão de produtos.
----
-
 ## ⚙️ Tecnologias
 
 <div style="display: inline_block"><br/>
