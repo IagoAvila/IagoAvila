@@ -1,6 +1,6 @@
 
-👋 Olá, eu sou o Iago Ávila Batista!
-
+👋 Olá, como vai? 
+Eu me chamo Iago Ávila Batista!
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
